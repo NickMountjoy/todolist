@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "NickMountjoy <nick.mountjoy98@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/NickMountjoy/todolist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
